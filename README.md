@@ -84,13 +84,12 @@ The cleaned dataset was imported into **PostgreSQL**, where multiple analytical 
 * Customer segmentation into **New, Returning, and Loyal customers** based on previous purchases 
 
 ### 5. Power BI Dashboards
-* Revenue by age group
 
 The dashboard enables quick exploration of customer behavior and product performance.
 
 ### 6. Screenshot
 Show what the dashboard looks like
-Example :https://github.com/Shweta-Kamilkar/Customer_shopping_behaviour_project1/blob/main/Shopping%20Insights.png
+Link :https://github.com/Shweta-Kamilkar/Customer_shopping_behaviour_project1/blob/main/Shopping%20Insights.png
 
 
 ---
