@@ -6,7 +6,7 @@ SELECT
     SUM(purchase_amount) AS total_revenue
 FROM customer
 GROUP BY gender
-ORDER BY total_Revenue DESC;
+ORDER BY total_revenue DESC;
 
 --2. Do customers using discounts spend more than average?
 SELECT
